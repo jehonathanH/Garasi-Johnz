@@ -9,6 +9,8 @@ body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 19px;
 	font-weight: 300;
+    color: white;
+    background-color: #363636;
 }
 a { color: white;  }
 a, button { transition: all 0.3s ease; }
