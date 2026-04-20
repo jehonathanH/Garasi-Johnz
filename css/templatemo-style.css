@@ -84,7 +84,7 @@ a:focus {
 .tm-btn-white-big:hover,
 .tm-btn-white-big:focus {
 	color: white;
-    background-color: #A2D1FF;
+    background-color: black;
 }
 
 /* 2. Carousel 
