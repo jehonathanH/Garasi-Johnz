@@ -218,7 +218,7 @@ a:focus {
 	padding-bottom: 6rem;
 }
 
-.tm-black-bg-row { background-color: #000000; }
+.tm-black-bg-row { background-color: black; }
 
 .tm-section-title {
 	font-size: 2.1rem;
