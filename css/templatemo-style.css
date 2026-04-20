@@ -195,7 +195,7 @@ a:focus {
 	background-color: transparent;
     border: 2px solid red;
     border-radius: 2.5rem;
-    color: white;
+    color: red;
     display: inline-block;
     font-size: 1.5rem;
     font-weight: 400;
