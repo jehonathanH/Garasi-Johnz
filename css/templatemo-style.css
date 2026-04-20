@@ -106,7 +106,7 @@ a:focus {
 .tm-carousel-item-text {
 	font-size: 1.3rem;
     line-height: 1.6;
-    color: #666;
+    color: white;
     font-weight: 300;
 }
 
@@ -174,14 +174,14 @@ a:focus {
 }
 
 .tm-2-col-text-title {
-	color: #81b4eb;
+	color: white;
     font-size: 1.9rem;
     font-weight: 300;
     margin-bottom: 5%;    
 }
 
 .tm-2-col-text-description {
-	color: #81b4eb;
+	color: white;
     font-size: 1.4rem;
     font-weight: 300;
     line-height: 1.9;    
@@ -191,9 +191,9 @@ a:focus {
 
 .tm-bordered-btn {
 	background-color: transparent;
-    border: 2px solid #81b4eb;
+    border: 2px solid red;
     border-radius: 2.5rem;
-    color: #81b4eb;
+    color: white;
     display: inline-block;
     font-size: 1.5rem;
     font-weight: 400;
@@ -203,7 +203,7 @@ a:focus {
 .tm-bordered-btn:hover,
 .tm-bordered-btn:focus {
 	color: white;
-	background-color: #81b4eb;
+	background-color: red;
 }
 
 .tm-2-col-img-lg-left img {
