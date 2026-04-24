@@ -24,7 +24,7 @@ a:focus {
 --------------------*/
 .tm-section-intro {
 	background-image:
-		linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+		linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),
 		url(../img/gagani.jpg);
 	background-attachment: fixed;
 	background-position: center top;
