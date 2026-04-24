@@ -69,6 +69,7 @@ a:focus {
 .tm-section-intro-title {
 	font-size: 4.5rem;
     margin-bottom: 3.5rem;
+	weight: bold;
 }
 
 .tm-section-intro-text {
