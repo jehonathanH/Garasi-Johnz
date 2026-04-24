@@ -108,10 +108,10 @@ a:focus {
 }
 
 .tm-carousel-item-text {
-	font-size: 1.3rem;
+	font-size: 3.3rem;
     line-height: 1.6;
     color: white;
-    font-weight: 300;
+    font-weight: bold;
 }
 
 .carousel-indicators {
