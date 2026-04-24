@@ -75,7 +75,7 @@ a:focus {
 .tm-section-intro-text {
 	font-size: 2rem;
 	margin-bottom: 4rem;
-	width: 100%;
+    font-weight: 800;
 }
 
 .tm-btn-white-big {
@@ -112,7 +112,7 @@ a:focus {
 	font-size: 3.3rem;
     line-height: 1.6;
     color: white;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .carousel-indicators {
@@ -181,7 +181,7 @@ a:focus {
 .tm-2-col-text-title {
 	color: white;
     font-size: 1.9rem;
-    font-weight: 300;
+    font-weight: 600;
     margin-bottom: 5%;    
 }
 
