@@ -69,13 +69,13 @@ a:focus {
 .tm-section-intro-title {
 	font-size: 4.5rem;
     margin-bottom: 3.5rem;
-	weight: bold;
+    font-weight: 800;
 }
 
 .tm-section-intro-text {
 	font-size: 2rem;
 	margin-bottom: 4rem;
-    font-weight: 800;
+
 }
 
 .tm-btn-white-big {
