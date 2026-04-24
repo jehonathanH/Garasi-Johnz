@@ -228,6 +228,7 @@ a:focus {
 .tm-section-title {
 	font-size: 2.1rem;
 	margin-bottom: 1.8rem;
+    font-weight: 600;
 }
 
 .tm-section-subtitle {
@@ -293,7 +294,9 @@ textarea.form-control {
 
 .tm-contact-right { padding-left: 3%; }
 
-.tm-contact-title { font-size: 1.6rem; }
+.tm-contact-title { font-size: 2rem; 
+				    font-weight: 600;
+				  }
 
 .tm-contact-info {
 	line-height: 1.8;
