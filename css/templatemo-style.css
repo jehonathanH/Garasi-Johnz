@@ -10,7 +10,7 @@ body {
 	font-size: 29px;
 	font-weight: 300;
     color: white;
-    background-color: #363636;
+    background-color: #131313;
 }
 a { color: white;  }
 a, button { transition: all 0.3s ease; }
@@ -223,7 +223,7 @@ a:focus {
 	padding-bottom: 6rem;
 }
 
-.tm-blue-bg-row { background-color: black; }
+.tm-blue-bg-row { background-color: #232323; }
 
 .tm-section-title {
 	font-size: 2.1rem;
@@ -277,6 +277,7 @@ a:focus {
 	font-size: 1.2rem;
 	border-radius: 2.5rem;
 	border-color: red;
+	background-color: #302f2f;
 }
 
 .form-control:focus { border-color: red; }
