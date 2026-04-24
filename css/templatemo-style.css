@@ -23,7 +23,9 @@ a:focus {
 /* 1. Intro 
 --------------------*/
 .tm-section-intro {
-	background-image: url(../img/gagani.jpg);
+	background-image:
+		linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+		url(../img/gagani.jpg);
 	background-attachment: fixed;
 	background-position: center top;
 	background-repeat: no-repeat;
