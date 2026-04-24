@@ -29,7 +29,7 @@ a:focus {
 	background-attachment: fixed;
 	background-position: center top;
 	background-repeat: no-repeat;
-	background-size: 100% 800px;
+	background-size: cover;
 	color: white;
 	display: -webkit-flex;
 	display: -ms-flexbox;
