@@ -259,8 +259,8 @@ h6 span{
   -ms-flex-pack: center;
   text-align: center;
   border: none;
-  background-color: #ffeba7;
-  color: #102770;
+  background-color: red;
+  color: white;
   box-shadow: 0 8px 24px 0 rgba(255,235,167,.2);
 }
 .btn:active,
@@ -270,8 +270,8 @@ h6 span{
   box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);
 }
 .btn:hover{  
-  background-color: #102770;
-  color: #ffeba7;
+  background-color: darkred;
+  color: white;
   box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);
 }
 
