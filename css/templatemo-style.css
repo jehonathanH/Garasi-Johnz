@@ -496,3 +496,18 @@ hr { width: 65%; }
 @media (max-width: 767px) {
 	.tm-form-group-left { padding-right: 0;	}
 }
+
+/* login */
+#message{
+	background: #ff4e4e;
+	color: white;
+	text-align: center;
+	margin-top: 20px;
+}
+#alertbox{
+	positon: fixed;
+	top: 20px;
+	left: 50%;
+	transform: translateX(-50%);
+	z-index: 999;
+}
